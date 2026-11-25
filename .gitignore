@@ -1,0 +1,9 @@
+# build output and scratch space
+.work/
+build/
+__pycache__/
+*.pyc
+
+# third-party source material (not redistributed)
+PPT 3 (1).pdf
+linkedlist_trees_hashings_Striver.pdf
